@@ -1,0 +1,4 @@
+#Fri Mar 03 13:19:50 PKT 2023
+base.0=D\:\\Flutter_Projects\\GetxMVVM\\Flutter-GetX-MVVM-With-REST-APIs\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
